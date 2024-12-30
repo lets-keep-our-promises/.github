@@ -9,3 +9,6 @@
 > 
 > - [**이 블로그 글**](https://velog.io/@jiheon/Git-Commit-message-규칙)을 따라서 커밋메시지를 작성해야해요.
 
+
+# Testflight
+https://testflight.apple.com/join/hxYTtyEu
